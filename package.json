@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "@mui/material": "^5.16.6",
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.20.0",
+    "axios": "^1.7.3",
+    "firebase": "^10.12.5",
+    "next": "14.2.5",
+    "openai": "^4.54.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "react-webcam": "^7.2.0"
   },
   "devDependencies": {
     "eslint": "^8",
